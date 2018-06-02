@@ -234,7 +234,7 @@ class CharacterEditView extends React.Component {
             defaultValue={character.baseStats.specDmg}/>
         </div>
         <div className={'form-row'}>
-          <label htmlFor="physDmgPct">Offense from Physical Damage:</label>
+          <label htmlFor="physDmgPct">Physical Damage Percent of Offense:</label>
           <RangeInput
             id={'physDmgPct'}
             name={'physDmgPct'}
