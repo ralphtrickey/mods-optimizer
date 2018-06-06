@@ -120,7 +120,7 @@ let charactersArray = [
     'Captain Han Solo',
     new BaseStats(27432, 32592, 2111, 2389, 1, 129, 319, 214),
     new OptimizationPlan(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
-    ['Light Side', 'Scountrel', 'Rebel', 'Support'],
+    ['Light Side', 'Scoundrel', 'Rebel', 'Support'],
     false
   ),
   new Character(
