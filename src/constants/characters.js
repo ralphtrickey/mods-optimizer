@@ -681,15 +681,15 @@ let charactersArray = [
     'L3-37',
     new BaseStats(32222, 38474, 2796, 1792, 1, 97, 330, 192),
     new OptimizationPlan(
-      0.4, // health
-      0.1, // protection
-      50, // speed
+      0, // health
+      0, // protection
+      0, // speed
       0, // crit damage
-      10, // potency
-      10, // tenacity
+      0, // potency
+      0, // tenacity
       0, // offense
       0, // crit chance
-      10, // defense
+      0, // defense
       0, // accuracy,
       0, // crit avoidance
       true
@@ -1122,9 +1122,9 @@ let charactersArray = [
       0, // protection
       100, // speed
       50, // crit damage
-      10, // potency
+      25, // potency
       0, // tenacity
-      2, // offense
+      25, // offense
       50, // crit chance
       0, // defense
       0, // accuracy,
