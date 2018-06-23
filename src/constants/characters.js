@@ -872,6 +872,13 @@ let charactersArray = [
     false
   ),
   new Character(
+    'Range Trooper',
+    new BaseStats(31730, 33360, 3166, 2296, 1, 139, 398, 152),
+    new OptimizationPlan(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
+    ['Dark Side', 'Support', 'Empire', 'Imperial Trooper'],
+    false
+  ),
+  new Character(
     'Rebel Officer Leia Organa',
     new BaseStats(28176, 36668, 2446, 1984, 1, 152, 283, 144),
     new OptimizationPlan(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
